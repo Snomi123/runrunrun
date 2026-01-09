@@ -1,0 +1,7 @@
+# aider
+run_aider.sh
+.aider.*
+
+# vim
+*.swp
+*.swo
